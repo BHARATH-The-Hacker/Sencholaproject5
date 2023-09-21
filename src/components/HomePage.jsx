@@ -12,7 +12,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function HomePage() {
     return (
         <div className="container-fluid">
-          {/* NAVIGATION BAR */}
+          {/* NAVIGATION */}
         <Navbar expand="lg" className="bg-body-tertiary fw-bold fixed-top">
         <Container>
           <Navbar.Brand  href="/"><h3><span><i class="bi bi-award"></i></span> NCA...🏏</h3></Navbar.Brand>
